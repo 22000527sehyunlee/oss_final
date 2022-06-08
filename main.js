@@ -1,10 +1,14 @@
 const breakTask = document.getElementById('break');
 const gymTask = document.getElementById('gym');
 const studyTask = document.getElementById('study');
-const tvTask = document.getElementById('tv');
+const classTask = document.getElementById('class');
 const friendsTask = document.getElementById('friends');
-const workTask = document.getElementById('work');
+const mealTask = document.getElementById('meal');
+const hanhanTask = document.getElementById('hanhan');
+const bookTask = document.getElementById('book');
+const cancle = document.getElementById('cancle');
 const deselectBtn = document.getElementById('deselect');
+
 const taskContainer = document.querySelector('.task__container');
 const scheduleContainer = document.querySelector('.schedule__container');
 const resetBtn = document.querySelector('.deleteBtn');
@@ -41,17 +45,29 @@ function selectTask (e){
             activeTask(studyTask, taskColor);
             icon = '<i class="fas fa-book"></i>';
             break
-        case 'tv':
-            activeTask(tvTask, taskColor);
-            icon = '<i class="fas fa-tv"></i>';
+        case 'class':
+            activeTask(classTask, taskColor);
+            icon = '<i class="fas fa-school"></i>';
             break
         case 'friends':
             activeTask(friendsTask, taskColor);
             icon = '<i class="fas fa-users"></i>';
             break
-        case 'work':
-            activeTask(workTask, taskColor);
-            icon = '<i class="fas fa-briefcase"></i>';
+        case 'meal':
+            activeTask(mealTask, taskColor);
+            icon = '<i class="fas fa-bacon"></i>';
+            break
+        case 'hanhan':
+            activeTask(hanhanTask, taskColor);
+            icon = '<i class="fas fa-shoe-prints"></i>';
+            break
+        case 'book':
+            activeTask(bookTask, taskColor);
+            icon = '<i class="fas fa-book"></i>';
+            break
+        case 'cancle':
+            activeTask(cancle, taskColor);
+            icon = '<i class="fas fa-trash-undo"></i>';
             break
     }
 
@@ -62,7 +78,7 @@ function setColors (e){
     if(e.target.classList.contains('task') && active === true){
         e.target.style.backgroundColor = selectedColor;
         e.target.innerHTML = icon;
-    }else if(e.target.classList.contains('fas') && active === true){
+    }else if(e.target.classList.contains('fa')&& active === true){
         e.target.parentElement.style.backgroundColor = selectedColor;
         e.target.parentElement.innerHTML = icon;
     }
@@ -71,6 +87,7 @@ function setColors (e){
 // Active task (1)
 function activeTask(task, color){
     task.classList.toggle('selected');
+    task.value;
 
     if(task.classList.contains('selected')){
         active = true;
