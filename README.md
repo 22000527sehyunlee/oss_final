@@ -10,7 +10,7 @@ This planner Is Perfect for people who don't plan in detail.<br>
 
 <h2>Why is this project useful?</h3> 
 - First, this scheduler easily can noticed your schedule.<br>
-- add and delete, reset, modify the schedule what ever you want<br>
+- Add and delete, reset, modify the schedule what ever you want<br>
 - As long as Raspberry Pi is on, you can always use it by typing only the address on the web page.<br>
 <h2>How to get started? </h3>
 <div>
