@@ -1,6 +1,6 @@
 # Weekly Planner for Laziness
 
-22000527 sehyeon lee
+22000527 Sehyeon Lee
 
 <h2>What does this project do?</h3>
 This project can easily see the schedule.<br>
