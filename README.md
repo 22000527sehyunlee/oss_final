@@ -27,7 +27,7 @@ This planner Is Perfect for people who don't plan in detail.<br>
 <h2>Where can people get more help, if needed? </h3>
 Please contact me through email: 13579@gmail.com<br>
 <h2>Presentation Video (YouTube) Link</h3> 
-http://sddsnjkds.youtube.co.kr<br>
+(https://youtu.be/J3cjEqju1b4)<br>
 <h2>contribution</h3>
 I made this project by referring to the project "weekly-schedule" of "brokencode.co".<br>
 The "brokencode.co" project had a scheduled range of 2 to 3 hours. So, I revised the time table to an hour, and added additional tasks to add more various schedules. <br>Also, there was no function to delete the task individually, but I added it because I thought I needed it.
