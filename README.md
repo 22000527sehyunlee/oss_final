@@ -12,6 +12,8 @@ This planner Is Perfect for people who don't plan in detail.<br>
 - First, this scheduler easily can noticed your schedule.<br>
 - Add and delete, reset, modify the schedule what ever you want<br>
 - As long as Raspberry Pi is on, you can always use it by typing only the address on the web page.<br>
+
+
 <h2>How to get started? </h3>
 <div>
 1) Prepare raspberry pi: <br>--- Turn on your RaspberryPi<br>
@@ -28,7 +30,6 @@ This planner Is Perfect for people who don't plan in detail.<br>
 Please contact me through email: 13579@gmail.com<br>
 
 <h2>Presentation Video (YouTube) Link</h3> 
-(https://youtu.be/J3cjEqju1b4)<br>
 <a href="https://youtu.be/J3cjEqju1b4">[GO TO YOUTUBE]</a>
 
 <h2>contribution</h3>
