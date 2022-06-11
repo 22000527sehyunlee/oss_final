@@ -29,7 +29,7 @@ Please contact me through email: 13579@gmail.com<br>
 
 <h2>Presentation Video (YouTube) Link</h3> 
 (https://youtu.be/J3cjEqju1b4)<br>
-<a href="[https://google.com](https://youtu.be/J3cjEqju1b4)">[GO TO YOUTUBE]</a>
+<a href="https://youtu.be/J3cjEqju1b4">[GO TO YOUTUBE]</a>
 
 <h2>contribution</h3>
 I made this project by referring to the project "weekly-schedule" of "brokencode.co".<br>
